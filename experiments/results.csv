@@ -1,0 +1,2 @@
+model,accuracy, model_size_bytes, latency_seconds
+FFN Baseline,0.9784,921.1611328125,0.0007222573280334472
