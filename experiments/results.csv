@@ -1,2 +1,2 @@
-model,accuracy, model_size_bytes, latency_seconds
-FFN Baseline,0.9784,921.1611328125,0.0007222573280334472
+model,test_accuracy, train_accuracy,Loss , Size(M), Latency(s)
+Sparse_MoE,0.98,0.9927871801705757,0.00033442823609500043,0.732946,3.957231283187866
